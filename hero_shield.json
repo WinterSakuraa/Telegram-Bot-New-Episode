@@ -1,0 +1,20 @@
+{
+    "3 серия": {
+        "episode_num": "3 серия",
+        "episode_title": "Episode 3",
+        "episode_date": "20 апреля 2022",
+        "isPosted": false
+    },
+    "2 серия": {
+        "episode_num": "2 серия",
+        "episode_title": "Footprints of the Spirit Tortoise",
+        "episode_date": "13 апреля 2022",
+        "isPosted": false
+    },
+    "1 серия": {
+        "episode_num": "1 серия",
+        "episode_title": "A New Roar",
+        "episode_date": "6 апреля 2022",
+        "isPosted": true
+    }
+}
